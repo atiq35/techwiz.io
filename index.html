@@ -1,0 +1,825 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Intorior Design </title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+
+    <!-- CSS here -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/slicknav.css">
+    <link rel="stylesheet" href="assets/css/flaticon.css">
+    <link rel="stylesheet" href="assets/css/animate.min.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/css/themify-icons.css">
+    <link rel="stylesheet" href="assets/css/slick.css">
+    <link rel="stylesheet" href="assets/css/nice-select.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+  
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+
+
+<style>
+
+    
+
+        /* Navbar styling */
+        #navbar{
+    background-color: #292727;
+}
+
+#logo span{
+    color: #ea381d;
+}
+#logo #span1{
+    font-size: 30px;
+}
+
+.navbar .navbar-nav .nav-item a{
+    padding: 15px;
+}
+
+.navbar .navbar-nav .nav-but {
+    padding: 10px;
+}
+
+.text-effect{
+  font-size: 40px;
+  line-height: 50px;
+}
+
+.navbar-nav{
+    margin-left: 35px;
+}
+.nav-item{
+    margin-left: 25px;
+}
+.nav-item .nav-link{
+    color: white;
+    margin-left: 2px;
+    text-shadow: 0px 0px 1px black;
+    transition: 0.5s ease;
+}
+.nav-item .nav-link:hover{
+    color: #d7301d;
+}
+.dropdown-menu li a{
+    color: white;
+    transition: 0.5s ease;
+}
+.dropdown-menu li a:hover{
+    background-color: rgb(98, 93, 99);
+    color: #ffc800;
+}
+#search input{
+    border-radius: 50px;
+    border: none;
+}
+#search button{
+    border-radius: 50px;
+    color: white;
+    border: 1px solid #ffc800;
+    background-color: #ffc800;
+}
+
+    
+    body {
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.light-mode {
+    background-color: #fff;
+    color: #000;
+}
+
+body.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+.container-button {
+    padding: 20px;
+}
+
+.toggle-btn {
+    position: fixed;
+    top: 200px;
+    right: 10px;
+    background: #f1f1f1;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.toggle-btn .icon {
+    font-size: 18px;
+}
+
+body.light-mode .toggle-btn {
+    background: #ddd;
+}
+
+body.dark-mode .toggle-btn {
+    background: #555;
+}
+/* footer */
+#footer{
+    padding: 0 0 30px 0px;
+    color: white;
+    font-size: 14px;
+    background-color: #292727;
+    margin-top: 100px;
+}
+#footer .footer-top{
+    padding: 60px 0 30px 0;
+    background-color: #292727;
+    color: white;
+}
+#footer .footer-top .footer-contact{
+    margin-bottom: 30px;
+}
+#footer .footer-top .footer-contact h3{
+    color: #ffc800;
+}
+#footer .footer-top .footer-contact h4{
+    font-size: 22px;
+    margin: 0 0 30px 0;
+    padding: 2px 0 2px 0;
+    line-height: 1;
+    font-weight: 700;
+}
+#footer .footer-top .footer-contact p{
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 0;
+    color: white;
+}
+#footer .footer-top h4{
+    font-size: 16px;
+    font-weight: bold;
+    position: relative;
+    padding-bottom: 12px;
+}
+#footer .footer-top .footer-links{
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+#footer .footer-top .footer-links h4{
+    color: #ffc800;
+}
+#footer .footer-top .footer-links ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#footer .footer-top .footer-links ul li{
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+}
+#footer .footer-top .footer-links ul li a{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    line-height: 1;
+    font-weight: bold;
+    transition: 0.5s ease;
+}
+#footer .footer-top .footer-links ul li a:hover{
+    color: #ffc800;
+}
+#footer .footer-top .socail-links a{
+    font-size: 18px;
+    display: inline-block;
+    text-decoration: none;
+    background-color: #373737;
+    color: white;
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    transition: 0.5s ease;
+}
+#footer .footer-top .socail-links a:hover{
+    background-color: #ffc800;
+    color: white;
+}
+#footer .copyright{
+    text-align: center;
+    float: left;
+}
+#footer .credits{
+    float: right;
+    text-align: center;
+    font-size: 13px;
+}
+#footer .credits a{
+    color: #ffc800;
+}
+/* footer */
+
+</style>
+
+</head>
+
+<body class="body-bg" >
+    <!-- <div data-aos="fade-up"> -->
+
+    
+    <header>
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg  navbar-dark bg-dark" id="navbar">
+          <div class="container">
+            <!-- Brand Logo -->
+            <a class="navbar-brand" href="main.html" id="logo">
+              <img src="assets/img/logo/logo2_footer.png" alt="Website Logo" style="max-width: 100px;">
+            </a>
+      
+            <!-- Toggler Button for Mobile View -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+      
+            <!-- Navbar Content -->
+            <div class="collapse navbar-collapse text-center" id="navbarSupportedContent">
+              <ul class="navbar-nav me-auto mb-2 mb-lg-0 text-center">
+                <!-- Navbar Links -->
+                <li class="nav-item">
+                  <a class="nav-link" href="./index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="./feedback.html">Feedback</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="./sitemap.html">Site Map</a>
+                </li>
+                <!-- Styles Dropdown Menu -->
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownStyles" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Styles
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdownStyles" style="background-color: rgb(68, 67, 68);">
+                    <li><a class="dropdown-item" href="./living-room.html">Living Room</a></li>
+                    <li><a class="dropdown-item" href="./kitchendata.html">Kitchen</a></li>
+                    <li><a class="dropdown-item" href="./bedroom.html">Bedroom</a></li>
+                    <li><a class="dropdown-item" href="./bathroom.html">Bathroom</a></li>
+                    <li><a class="dropdown-item" href="./contemporary-styles.html">Contemporary Styles</a></li>
+                    <li><a class="dropdown-item" href="./elegant-look-styles.html">Elegant Look Style</a></li>
+                  </ul>
+                </li>
+                <!-- Category Dropdown Menu -->
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownCategory" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    Category
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="navbarDropdownCategory" style="background-color: rgb(68, 67, 68);">
+                    <li><a class="dropdown-item" href="./findex.html">Furniture</a></li>
+                    <li><a class="dropdown-item" href="./kindex.html">Kitchen</a></li>
+                    <li><a class="dropdown-item" href="./lindex.html">Lighting</a></li>
+                    <li><a class="dropdown-item" href="./dindex.html">Decor</a></li>
+                    <li><a class="dropdown-item" href="./bindex.html">Bathroom</a></li>
+                  </ul>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="about.html">About</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="contact.html">Contact</a>
+                </li>
+              </ul>
+              
+            </div>
+          </div>
+        </nav>
+        <!-- Navbar End -->
+      </header>
+      
+   
+      
+
+<main>
+    <!--? slider Area Start-->
+    <div class="slider-area">
+        <div class="slider-active dot-style">
+            <!-- Single Slider -->
+            <div class="single-slider slider-height hero-overly d-flex align-items-center" data-aos="fade-up">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6">
+                            <div class="hero__caption">
+                                <span data-animation="fadeInLeft" data-delay=".4s">Welcome to Intorior</span>
+                                <h1 data-animation="fadeInLeft" data-delay=".6s">Modern Interior & Design</h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Single Slider -->
+            <div class="single-slider slider-height hero-overly d-flex align-items-center">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6">
+                            <div class="hero__caption">
+                                <span data-animation="fadeInLeft" data-delay=".4s">Welcome to Intorior</span>
+                                <h1 data-animation="fadeInLeft" data-delay=".6s">Modern Interior & Design</h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Video icon
+         <div class="video-icon">
+    <a class="popup-video btn-icon" href="https://www.youtube.com/embed/OzUkvzyBttA"><i class="fas fa-play"></i></a>
+</div> -->
+</div>
+    <!-- slider Area End-->
+    <!--? our info Start -->
+    <div class="our-info-area pt-170 pb-100 section-bg" data-background="assets/img/gallery/section_bg02.jpg">
+        <div class="container">
+            <div class="row justify-content-between">
+                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6" data-aos="fade-up">
+                    <div class="single-info mb-60">
+                        <div class="info-caption">
+                            <h4>Clean and Services</h4>
+                            <p>For each project we establish relationships with partners who we know will help us. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6" data-aos="fade-up">
+                    <div class="single-info mb-60">
+                        <div class="info-caption">
+                            <h4>Clean and Modern</h4>
+                            <p>For each project we establish relationships with partners who we know will help us. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6" data-aos="fade-up">
+                    <div class="single-info mb-60">
+                        <div class="info-caption">
+                            <h4>Clean and Modern</h4>
+                            <p>For each project we establish relationships with partners who we know will help us. </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Our Info start -->
+    <!--? Professional Services Start -->
+    <div class="professional-services section-bg d-none d-md-block" data-background="assets/img/gallery/section_bg04.jpg" data-aos="fade-up"></div>
+    <div class="profession-caption" data-aos="fade-up">
+        <div class="container">
+            <div class="row align-items-end">
+                <div class="col-lg-8">
+                        <!-- Section Tittle -->
+                        <div class="section-tittle profession-details">
+                            <span>Our Professional Interior Design Services </span>
+                            <h2>We create modern, first-class interiors that combine style and functionality.</h2>
+                            <p>We specialize in creating modern, first-class interiors that reflect your unique style.
+                                From concept to completion, we provide expert solutions tailored to your needs.</p>
+                            <p>Let us transform your space with elegance and functionality, delivering high-quality design that enhances your living experience. </p>
+                        </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <a href="about.html" class="btn btn3" data-aos="fade-up">Discover More About Ous</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Professional Services End -->
+    <!-- our info End -->
+    <!--? Services Ara Start -->
+    <div class="services-area section-padding3" >
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="cl-xl-7 col-lg-8 col-md-10">
+                    <!-- Section Tittle -->
+                    <div class="section-tittle text-center mb-70" data-aos="fade-up">
+                        <span >Our Professional Services</span>
+                        <h2 >Best Interitor Services</h2>
+                    </div> 
+                </div>
+            </div>
+            <div class="row"   >
+                <!-- Card 1 -->
+                <div class="col-lg-4 col-md-6 col-sm-10" data-aos="fade-up">
+                    <div class="single-services mb-200">
+                        <div class="services-img" >
+                            <img src="assets/img/gallery/Contempt.jpeg" alt="">
+                        </div>
+                        <div class="services-caption">
+                            <h3><a href="./living-room.html">Living Room</a></h3>
+                            <p class="pera1">Design your living space with style and comfort.</p>
+                            <p class="pera2">We collaborate with top designers to create a relaxing and functional environment.</p>
+                         </div>
+                    </div>
+                </div>
+            
+                <!-- Card 2 -->
+                <div class="col-lg-4 col-md-6 col-sm-10" data-aos="fade-up">
+                    <div class="single-services mb-200">
+                        <div class="services-img">
+                            <img src="https://images.squarespace-cdn.com/content/v1/63dde481bbabc6724d988548/a827d2e8-2605-4cb5-a7ec-4102204f5258/_e53f4d54-507e-4bad-905d-ad9f1bdebab7.jpg">
+                        </div>
+                        <div class="services-caption">
+                            <h3><a href="bedroom.html">Bedroom</a></h3>
+                            <p class="pera1">Create a tranquil retreat with our bedroom designs.</p>
+                            <p class="pera2">Our team ensures that every detail adds to your comfort and relaxation.</p>
+                        </div>
+                    </div>
+                </div>
+            
+                <!-- Card 3 -->
+                <div class="col-lg-4 col-md-6 col-sm-10" data-aos="fade-up">
+                    <div class="single-services mb-200">
+                        <div class="services-img">
+                            <img src="https://hips.hearstapps.com/hmg-prod/images/230726-tlenz-pappasmiron7751-65e639fce2c31.jpg?crop=1.00xw:0.681xh;0,0.122xh&resize=1120:*" alt="">
+                        </div>
+                        <div class="services-caption">
+                            <h3><a href="./kitchendata.html">Kitchen</a></h3>
+                            <p class="pera1">Design your kitchen for maximum efficiency and beauty.</p>
+                            <p class="pera2">We focus on creating modern kitchens that enhance your cooking experience.</p>
+                       </div>
+                    </div>
+                </div>
+            
+                <!-- Card 4 -->
+                <div class="col-lg-4 col-md-6 col-sm-10" data-aos="fade-up">
+                    <div class="single-services mb-200">
+                        <div class="services-img">
+                            <img src="https://images.livspace-cdn.com/plain/https://d3gq2merok8n5r.cloudfront.net/abhinav/ond-1634120396-Obfdc/amj-2024-1711965337-VsMIK/bathroom-1713420270-gtUqd/br-22-1-1718970993-6b155.jpg" alt="">
+                        </div>
+                        <div class="services-caption">
+                            <h3><a href="./bathroomdata.html">Bathroom</a></h3>
+                            <p class="pera1">Transform your bathroom into a luxurious space.</p>
+                            <p class="pera2">We combine functionality and elegance to craft serene bathroom designs.</p>
+                         </div>
+                    </div>
+                </div>
+            
+                <!-- Card 5 -->
+                <div class="col-lg-4 col-md-6 col-sm-10" data-aos="fade-up">
+                    <div class="single-services mb-200">
+                        <div class="services-img">
+                            <img src="assets/img/gallery/living room.jpeg" alt="">
+                        </div>
+                        <div class="services-caption">
+                            <h3><a href="./contemporary-styles.html">Contemporary</a></h3>
+                            <p class="pera1">Sleek, modern designs for a Lighting touch.</p>
+                            <p class="pera2">Our contemporary solutions add a fresh, clean aesthetic to any space.</p>
+                        </div>
+                    </div>
+                </div>
+            
+                <!-- Card 6 -->
+                <div class="col-lg-4 col-md-6 col-sm-10" data-aos="fade-up">
+                    <div class="single-services mb-200">
+                        <div class="services-img">
+                            <img src="assets/img/gallery/services6.png" alt="">
+                        </div>
+                        <div class="services-caption">
+                            <h3><a href="./elegant-look-styles.html">Elegant-look</a></h3>
+                            <p class="pera1">Bring timeless elegance into your home design.</p>
+                            <p class="pera2">We specialize in creating spaces that exude class and sophistication.</p>
+                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Services Ara End -->
+    <!--? Gallery Area Start -->
+    <div class="gallery-area">
+        <div class="container-fluid p-0 fix">
+            <div class="row">
+                <div class="col-xl-6 col-lg-4 col-md-6" data-aos="fade-up">
+                    <div class="single-gallery mb-30">
+                        <div class="gallery-img" style="background-image: url(https://www.througheternity.com/upload/CONF83/20200426/_pinacoteca_raphael_tapestries_vatican_tour_-tSa-730X490.jpeg);"></div>
+                        <div class="thumb-content-box">
+                            <div class="thumb-content">
+                                <h3><span>Intorior</span>The Vatican Museums  </h3>
+                                <a href="work.html"><i class="fas fa-angle-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up">
+                    <div class="single-gallery mb-30">
+                        <div class="gallery-img" style="background-image: url(https://www.tajmahalvisit.com/image/Taj-Mahal-Inside.jpg);"></div>
+                        <div class="thumb-content-box">
+                            <div class="thumb-content">
+                                <h3><span>Intorior</span>Taj Mahal</h3>
+                                <a href="work.html"><i class="fas fa-angle-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up">
+                    <div class="single-gallery mb-30">
+                            <div class="gallery-img" style="background-image: url(https://interiordesigngiants.com/wp-content/uploads/2014/10/burj-khalifa-tower-interiors-6.jpg);"></div>
+                        <div class="thumb-content-box">
+                            <div class="thumb-content">
+                                <h3><span>Intorior</span>Burj Khalifa</h3>
+                                <a href="work.html"><i class="fas fa-angle-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up">
+                    <div class="single-gallery mb-30">
+                        <div class="gallery-img" style="background-image: url(https://palazzoducale.visitmuve.it/wp-content/uploads/2021/05/MUVE-DUCALE-Chiesetta-del-Doge.jpg);"></div>
+                        <div class="thumb-content-box">
+                            <div class="thumb-content">
+                                <h3><span>Intorior</span>Palazzo Ducale</h3>
+                                <a href="work.html"><i class="fas fa-angle-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-4 col-md-6" data-aos="fade-up">
+                    <div class="single-gallery mb-30">
+                        <div class="gallery-img" style="background-image: url(https://fh-sites.imgix.net/sites/4285/2020/07/08102904/Sagrada-Familia-3.jpg);"></div>
+                        <div class="thumb-content-box">
+                            <div class="thumb-content">
+                                <h3><span>Intorior</span>Sagrada Família</h3>
+                                <a href="work.html"><i class="fas fa-angle-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-4 col-md-6" data-aos="fade-up">
+                    <div class="single-gallery mb-30">
+                        <div class="gallery-img" style="background-image: url('https://images.adsttc.com/media/images/5164/2e77/b3fc/4b9d/4f00/0375/newsletter/Pedro_Pegenaute_(1).jpg?1365519956');"></div>
+                        <div class="thumb-content-box">
+                            <div class="thumb-content">
+                                <h3><span>Intorior</span>Rijksmuseum</h3>
+                                <a href="work.html"><i class="fas fa-angle-right"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Gallery Area End -->
+    
+    
+    <!-- Want To work -->
+    <section class="wantToWork-area w-padding2" data-aos="fade-up">
+        <div class="container">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-xl-8 col-lg-8 col-md-8">
+                    <div class="wantToWork-caption wantToWork-caption2">
+                        <h2>Are you Searching For a First-Class Consultant?</h2>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-lg-2 col-md-3">
+                    <a href="#" class="btn btn-black f-right">Contact Us</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Want To work End -->
+    <!-- Blog Area Start -->
+    <div class="home-blog-area section-padding30">
+        <div class="container">
+            <!-- Section Tittle -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-tittle text-center mb-70" data-aos="fade-up">
+                        <span>Our latest blog</span>
+                        <h2>Our recent news</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-6 col-lg-6 col-md-6" data-aos="fade-up">
+                    <div class="home-blog-single mb-30">
+                        <div class="blog-img-cap">
+                            <div class="blog-img">
+                                <img src="assets/img/gallery/home_blog1.png" alt="">
+                            </div>
+                            <ul>
+                                <li class="black-bg">October 27, 2020</li>
+                                <li>By Admin   -   30 Likes   -   4 Comments</li>
+                            </ul>
+                            <div class="blog-cap">
+                                <h3><a href="blog_details.html">16 Easy Ideas to Use Everyday
+                                    Stuff in Kitchen.</a></h3>
+                                <a href="blog_details.html" class="more-btn">Read more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-6 data-aos=" data-aos="fade-up">
+                    <div class="home-blog-single mb-30">
+                        <div class="blog-img-cap">
+                            <div class="blog-img">
+                                <img src="assets/img/gallery/home_blog2.png" alt="">
+                            </div>
+                            <ul>
+                                <li class="black-bg">October 27, 2020</li>
+                                <li>By Admin   -   30 Likes   -   4 Comments</li>
+                            </ul>
+                            <div class="blog-cap">
+                                <h3><a href="blog_details.html">16 Easy Ideas to Use Everyday
+                                    Stuff in Kitchen.</a></h3>
+                                <a href="blog_details.html" class="more-btn">Read more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Blog Area End -->
+
+</main>
+<!-- footer -->
+<footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h3>Interior</h3>
+            <p>
+              Karachi <br>
+              Sindh <br>
+              Pakistan <br>
+            </p>
+            <strong>Phone:</strong>+92 3173343719<br>
+            <strong>Email:</strong> interiorstylus@gmail.com <br>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Usefull Links</h4>
+           <ul>
+            <li><a href="./index.html">Home</a></li>
+            <li><a href="./about.html">About</a></li>
+            <li><a href="./contact.html">Contact</a></li>
+            <li><a href="./feedback.html">Feedback</a></li>
+           </ul>
+          </div>
+
+
+
+         
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Our Services</h4>
+
+           <ul>
+            <li><a href="findex.html">Furniture</a></li>
+            <li><a href="kindex.html">Kitchen</a></li>
+            <li><a href="lindex.html">Lighting</a></li>
+            <li><a href="dindex.html">Decor</a></li>
+            <li><a href="bindex.html">Bathroom</a></li>
+           </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Our Social Networks</h4>
+            <p>we are avalaible on this social networks.</p>
+
+            <div class="socail-links mt-3">
+              <a href="https://x.com/?lang=en"><i class="fa-brands fa-twitter"></i></a>
+              <a href="https://www.facebook.com/login/"><i class="fa-brands fa-facebook-f"></i></a>
+              <a href="https://www.instagram.com/"><i class="fa-brands fa-instagram"></i></a>
+              <a href="https://www.skype.com/en/"><i class="fa-brands fa-skype"></i></a>
+              <a href="https://pk.linkedin.com/"><i class="fa-brands fa-linkedin"></i></a>
+            </div>
+          
+          </div>
+
+        </div>
+      </div>
+    </div>
+    <hr>
+    <div class="container py-4">
+      <div class="copyright">
+        &copy; Copyright <strong><span>Interior</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        Designed by <a href="#">Code Creators</a>
+      </div>
+    </div>
+  </footer>
+  <!-- footer -->
+<!-- Scroll Up -->
+<div id="back-top" >
+    <a title="Go to Top" href="#"> <i class="fas fa-level-up-alt"></i></a>
+</div>
+
+<!-- JS here -->
+    <!-- All JS Custom Plugins Link Here here -->
+    <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
+    <!-- Jquery, Popper, Bootstrap -->
+    <script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="./assets/js/popper.min.js"></script>
+    <script src="./assets/js/bootstrap.min.js"></script>
+    <!-- Jquery Mobile Menu -->
+    <script src="./assets/js/jquery.slicknav.min.js"></script>
+
+    <!-- Jquery Slick , Owl-Carousel Plugins -->
+    <script src="./assets/js/owl.carousel.min.js"></script>
+    <script src="./assets/js/slick.min.js"></script>
+    <!-- One Page, Animated-HeadLin -->
+    <script src="./assets/js/wow.min.js"></script>
+    <script src="./assets/js/animated.headline.js"></script>
+    <script src="./assets/js/jquery.magnific-popup.js"></script>
+
+    <!-- Nice-select, sticky -->
+    <script src="./assets/js/jquery.nice-select.min.js"></script>
+    <script src="./assets/js/jquery.sticky.js"></script>
+    
+    <!-- contact js -->
+    <script src="./assets/js/contact.js"></script>
+    <script src="./assets/js/jquery.form.js"></script>
+    <script src="./assets/js/jquery.validate.min.js"></script>
+    <script src="./assets/js/mail-script.js"></script>
+    <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
+    
+    <!-- Jquery Plugins, main Jquery -->	
+    <script src="./assets/js/plugins.js"></script>
+    <script src="./assets/js/main.js"></script>
+    <!-- <script> -->
+  <!-- </script> -->
+
+    
+
+          
+
+
+    <script>
+
+document.getElementById('theme-toggle').addEventListener('click', () => {
+    const body = document.body;
+    if (body.classList.contains('dark-mode')) {
+        body.classList.remove('dark-mode');
+        body.classList.add('light-mode');
+        document.querySelector('.toggle-btn .icon').textContent = '🌙';
+    } else {
+        body.classList.remove('light-mode');
+        body.classList.add('dark-mode');
+        document.querySelector('.toggle-btn .icon').textContent = '☀️';
+    }
+});
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"> </script>
+
+<script>
+AOS.init(); 
+document.addEventListener('DOMContentLoaded', () => {
+        AOS.init({
+            duration: 1100, // Duration of animations
+            once: true, // Animate only once
+        });
+    });
+
+// Initialize theme based on user's preference or default to light mode
+document.addEventListener('DOMContentLoaded', () => {
+    const body = document.body;
+    const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if (isDarkMode) {
+        body.classList.add('dark-mode');
+        document.querySelector('.toggle-btn .icon').textContent = '☀️';
+    } else {
+        body.classList.add('light-mode');
+        document.querySelector('.toggle-btn .icon').textContent = '🌙';
+    }
+});
+
+
+    </script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+
+
+
+
+
+
+</body>
+</html>

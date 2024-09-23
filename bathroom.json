@@ -1,0 +1,335 @@
+{
+    "vanities": [
+    {
+        "id": "1",
+        "title": "Modern Minimalist",
+        "description": "Sleek and simple vanity for contemporary bathrooms.",
+        "details": "Features clean lines and a streamlined design.",
+        "price": "8999",
+        "image": "https://images.unsplash.com/photo-1580407573078-75c6d2d174eb?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8VmFuaXRpZXMlMjBhbmQlMjBjYWJpbmV0cyUyMGJhdGhyb29tfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "2",
+        "title": "Classic Elegance",
+        "description": "Timeless vanity that adds a touch of sophistication.",
+        "details": "Features ornate detailing and rich wood finishes.",
+        "price": "10999",
+        "image": "https://images.unsplash.com/photo-1595515106880-aa5c54392847?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFZhbml0aWVzJTIwYW5kJTIwY2FiaW5ldHMlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "3",
+        "title": "Rustic Charm",
+        "description": "Vanity with a warm, inviting feel.",
+        "details": "Made from reclaimed wood with a distressed finish.",
+        "price": "7499",
+        "image": "https://images.unsplash.com/photo-1595514535215-8a093483610a?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8VmFuaXRpZXMlMjBhbmQlMjBjYWJpbmV0cyUyMGJhdGhyb29tfGVufDB8fDB8fHww374?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGJhcmRvb20lMjB2YW5pdGllc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "4",
+        "title": "Contemporary Chic",
+        "description": "Stylish vanity that suits modern interiors.",
+        "details": "Features bold colors and sleek hardware.",
+        "price": "9999",
+        "image": "https://images.unsplash.com/photo-1656646523781-b473405f8d80?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fFZhbml0aWVzJTIwYW5kJTIwY2FiaW5ldHMlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "5",
+        "title": "Sleek and Simple",
+        "description": "Perfect for small bathrooms with limited space.",
+        "details": "Compact design with functional storage.",
+        "price": "6499",
+        "image": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fFZhbml0aWVzJTIwYW5kJTIwY2FiaW5ldHMlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "6",
+        "title": "Luxurious Spa",
+        "description": "Transform your bathroom into a personal spa.",
+        "details": "Features a spacious countertop and elegant fixtures.",
+        "price": "14999",
+        "image": "https://plus.unsplash.com/premium_photo-1678111481305-eab33b19ad97?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fFZhbml0aWVzJTIwYW5kJTIwY2FiaW5ldHMlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "7",
+        "title": "Vintage Revival",
+        "description": "Nostalgic vanity with a modern twist.",
+        "details": "Combines classic design with contemporary materials.",
+        "price": "8999",
+        "image": "https://images.unsplash.com/photo-1564540579594-0930edb6de43?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fFZhbml0aWVzJTIwYW5kJTIwY2FiaW5ldHMlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "8",
+        "title": "Industrial Edge",
+        "description": "Vanity that features raw materials and bold design.",
+        "details": "Constructed with metal and wood for an edgy look.",
+        "price": "10999",
+        "image": "https://plus.unsplash.com/premium_photo-1663091257768-8f089bf6b4fa?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fFZhbml0aWVzJTIwYW5kJTIwY2FiaW5ldHMlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    }
+],
+    "shower": [
+    {
+        "id": "1",
+        "title": "Rainfall Showerhead",
+        "description": "Experience a soothing rainfall effect in your bathroom.",
+        "details": "This showerhead mimics natural rain for a refreshing shower experience.",
+        "price": "5999",
+        "image": "https://images.unsplash.com/photo-1507652313519-d4e9174996dd?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U2hvd2VycyUyMGFuZCUyMGJhdGh0dWJzJTIwYmF0aHJvb218ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "2",
+        "title": "Wall-Mounted Elegance",
+        "description": "Sleek wall-mounted shower design for modern bathrooms.",
+        "details": "Combines functionality with style for an upscale look.",
+        "price": "5499",
+        "image": "https://images.unsplash.com/photo-1560185127-bdf08e449371?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8U2hvd2VycyUyMGFuZCUyMGJhdGh0dWJzJTIwYmF0aHJvb218ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "3",
+        "title": "Frameless Glass Enclosure",
+        "description": "Stylish frameless glass shower enclosure for a spacious feel.",
+        "details": "Creates an open atmosphere while providing privacy.",
+        "price": "7999",
+        "image": "https://images.unsplash.com/photo-1533759413974-9e15f3b745ac?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8U2hvd2VycyUyMGFuZCUyMGJhdGh0dWJzJTIwYmF0aHJvb218ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "4",
+        "title": "Multi-Function Shower Panel",
+        "description": "Versatile shower panel with multiple spray options.",
+        "details": "Includes rainfall, handheld, and body jets for a customizable experience.",
+        "price": "8999",
+        "image": "https://images.unsplash.com/photo-1604769319166-010643ace337?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8U2hvd2VycyUyMGFuZCUyMGJhdGh0dWJzJTIwYmF0aHJvb218ZW58MHx8MHx8fDA%3D"
+
+    },
+    {
+        "id": "5",
+        "title": "Freestanding Soaking Shower",
+        "description": "Elegant freestanding shower design for luxurious spaces.",
+        "details": "Features a deep soaking basin and stylish fixtures.",
+        "price": "12999",
+        "image": "https://images.unsplash.com/photo-1516147124632-081540e06d88?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFNob3dlcnMlMjBhbmQlMjBiYXRodHVicyUyMGJhdGhyb29tfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "6",
+        "title": "Compact Corner Unit",
+        "description": "Space-saving shower unit perfect for smaller bathrooms.",
+        "details": "Maximizes space without sacrificing style or comfort.",
+        "price": "3999",
+        "image": "https://images.unsplash.com/photo-1668910242001-f51ede00662d?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fFNob3dlcnMlMjBhbmQlMjBiYXRodHVicyUyMGJhdGhyb29tfGVufDB8fDB8fHww"
+
+    },
+    {
+        "id": "7",
+        "title": "Vintage Style Shower",
+        "description": "Classic design with modern functionality.",
+        "details": "Brings a touch of nostalgia to your bathroom decor.",
+        "price": "6999",
+        "image": "https://images.unsplash.com/photo-1668910242001-f51ede00662d?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fFNob3dlcnMlMjBhbmQlMjBiYXRodHVicyUyMGJhdGhyb29tfGVufDB8fDB8fHww"
+
+    },
+    {
+        "id": "8",
+        "title": "Hydro Massage Shower System",
+        "description": "Revitalizing hydro massage shower for ultimate relaxation.",
+        "details": "Equipped with adjustable jets for a spa-like experience at home.",
+        "price": "9999",
+        "image": "https://images.unsplash.com/photo-1664227430687-9299c593e3da?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fFNob3dlcnMlMjBhbmQlMjBiYXRodHVicyUyMGJhdGhyb29tfGVufDB8fDB8fHww"
+    }
+],
+    "toilet": [
+    {
+        "id": "1",
+        "title": "EcoFlush Toilet",
+        "description": "Eco-friendly toilet that conserves water.",
+        "details": "Designed to minimize water usage while providing excellent flushing performance.",
+        "price": "3999",
+        "image": "https://plus.unsplash.com/premium_photo-1675615667566-9dbdcec5ea2c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VG9pbGV0cyUyMGFuZCUyMGJpZGV0cyUyMGJhdGhyb29tfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "2",
+        "title": "Compact Design Toilet",
+        "description": "Space-saving toilet for smaller bathrooms.",
+        "details": "Features a sleek design that fits well in compact spaces.",
+        "price": "2999",
+        "image": "https://images.unsplash.com/photo-1521783593447-5702b9bfd267?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8VG9pbGV0cyUyMGFuZCUyMGJpZGV0cyUyMGJhdGhyb29tfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "3",
+        "title": "Luxury Bidet Toilet",
+        "description": "Toilet with built-in bidet functionality.",
+        "details": "Provides comfort and cleanliness with advanced features.",
+        "price": "8999",
+        "image": "https://images.unsplash.com/photo-1507086182422-97bd7ca2413b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fFRvaWxldHMlMjBhbmQlMjBiaWRldHMlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "4",
+        "title": "Dual-Flush Toilet",
+        "description": "Offers two flush options for efficient water use.",
+        "details": "Choose between a full flush or a reduced flush.",
+        "price": "4999",
+        "image": "https://images.unsplash.com/photo-1564540583246-934409427776?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fFRvaWxldHMlMjBhbmQlMjBiaWRldHMlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "5",
+        "title": "One-Piece Modern Toilet",
+        "description": "Sleek one-piece toilet for a contemporary look.",
+        "details": "Easy to clean with a seamless design.",
+        "price": "6999",
+        "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fFRvaWxldHMlMjBhbmQlMjBiaWRldHMlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "6",
+        "title": "Smart Toilet with Heated Seat",
+        "description": "High-tech toilet with heated seat and bidet features.",
+        "details": "Adjustable settings for comfort and hygiene.",
+        "price": "12999",
+        "image": "https://images.unsplash.com/photo-1533759413974-9e15f3b745ac?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fFRvaWxldHMlMjBhbmQlMjBiaWRldHMlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "7",
+        "title": "Classic White Toilet",
+        "description": "Timeless white toilet that fits any bathroom style.",
+        "details": "Durable and reliable with traditional design.",
+        "price": "3499",
+        "image": "https://images.unsplash.com/photo-1505409952192-17ec9705e731?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fFRvaWxldHMlMjBhbmQlMjBiaWRldHMlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "8",
+        "title": "Wall-Mounted Toilet",
+        "description": "Space-saving wall-mounted design.",
+        "details": "Creates a clean look and easy access for cleaning.",
+        "price": "7999",
+        "image": "https://images.unsplash.com/photo-1584069793933-57852d7060ea?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fFRvaWxldHMlMjBhbmQlMjBiaWRldHMlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    }
+],
+"bathroom": [
+    {
+        "id": "1",
+        "title": "Serenity Spa Bathroom",
+        "description": "King-size bed with upholstered headboard.",
+        "details": "Features a padded headboard and solid wood frame.",
+        "price": "12999",
+        "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QmF0aHJvb20lMjBzaW5rcyUyMGJhdGhyb29tfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "2",
+        "title": "Modern Minimalist Bath",
+        "description": "Modern bed frame with storage underneath.",
+        "details": "Maximize space with built-in drawers.",
+        "price": "9999",
+        "image": "https://plus.unsplash.com/premium_photo-1676968003237-1f10be4e1c4b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8QmF0aHJvb20lMjBzaW5rcyUyMGJhdGhyb29tfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "3",
+        "title": "Classic Elegance Bathroom",
+        "description": "Elegant wooden bed frame for master bedrooms.",
+        "details": "Crafted from high-quality oak with intricate designs.",
+        "price": "11999",
+        "image": "https://images.unsplash.com/photo-1609879937493-56540300d8cc?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8QmF0aHJvb20lMjBzaW5rcyUyMGJhdGhyb29tfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "4",
+        "title": "Coastal Retreat Bath",
+        "description": "Queen-size bed with memory foam mattress.",
+        "details": "Includes a premium mattress for ultimate comfort.",
+        "price": "10999",
+        "image": "https://plus.unsplash.com/premium_photo-1681487476963-4d9ab9f6470f?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8QmF0aHJvb20lMjBzaW5rcyUyMGJhdGhyb29tfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "5",
+        "title": "Rustic Charm Bathroom",
+        "description": "Classic metal bed frame with modern design.",
+        "details": "Durable metal construction with a minimalist look.",
+        "price": "8999",
+        "image": "https://images.unsplash.com/photo-1507086182422-97bd7ca2413b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEJhdGhyb29tJTIwc2lua3MlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "6",
+        "title": "Contemporary Chic Bath",
+        "description": "Minimalist platform bed for small spaces.",
+        "details": "Low-profile design that's perfect for compact rooms.",
+        "price": "7999",
+        "image": "https://images.unsplash.com/photo-1418754356805-b89082b6965e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fEJhdGhyb29tJTIwc2lua3MlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "7",
+        "title": "Vintage Luxury Bathroom",
+        "description": "Luxury bed with premium mattress.",
+        "details": "Experience unparalleled comfort and support.",
+        "price": "13999",
+        "image": "https://images.unsplash.com/photo-1521783593447-5702b9bfd267?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fEJhdGhyb29tJTIwc2lua3MlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "8",
+        "title": "Zen Oasis Bath",
+        "description": "Sleek modern bed with headboard lighting.",
+        "details": "Features built-in LED lights for ambient lighting.",
+        "price": "11999",
+        "image": "https://images.unsplash.com/photo-1609946860441-a51ffcf22208?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fEJhdGhyb29tJTIwc2lua3MlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    }
+],
+    "mirror": [
+    {
+        "id": "1",
+        "title": "Reflections of Serenity",
+        "description": "Spacious wooden wardrobe for bedroom.",
+        "details": "Includes hanging space, shelves, and drawers.",
+        "price": "8999",
+        "image": "https://plus.unsplash.com/premium_photo-1683121999757-f4c2a8f848c3?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8TWlycm9ycyUyMGFuZCUyMG1lZGljaW5lJTIwY2FiaW5ldHMlMjBiYXRocm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "2",
+        "title": "Modern Elegance Mirror",
+        "description": "Modern storage cabinet for living room.",
+        "details": "Features glass doors and adjustable shelves.",
+        "price": "4999",
+        "image": "https://images.unsplash.com/photo-1523243319451-54b60322f948?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fE1pcnJvcnMlMjBhbmQlMjBtZWRpY2luZSUyMGNhYmluZXRzJTIwYmF0aHJvb218ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "3",
+        "title": "Classic Round Beauty",
+        "description": "Compact storage shelf for small spaces.",
+        "details": "Ideal for books, decor, or small items.",
+        "price": "1999",
+        "image": "https://plus.unsplash.com/premium_photo-1679571040052-43a58c6f345a?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fE1pcnJvcnMlMjBhbmQlMjBtZWRpY2luZSUyMGNhYmluZXRzJTIwYmF0aHJvb218ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "4",
+        "title": "Sleek Frameless Design",
+        "description": "Stylish shoe rack with multiple tiers.",
+        "details": "Holds up to 20 pairs of shoes.",
+        "price": "2499",
+        "image": "https://images.unsplash.com/photo-1509789129199-7c90e936483a?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fE1pcnJvcnMlMjBhbmQlMjBtZWRpY2luZSUyMGNhYmluZXRzJTIwYmF0aHJvb218ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "5",
+        "title": "Vintage Charm Vanity Mirror",
+        "description": "Classic wooden chest of drawers.",
+        "details": "Five spacious drawers with smooth gliding tracks.",
+        "price": "5499",
+        "image": "https://plus.unsplash.com/premium_photo-1678111481305-eab33b19ad97?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fE1pcnJvcnMlMjBhbmQlMjBtZWRpY2luZSUyMGNhYmluZXRzJTIwYmF0aHJvb218ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "6",
+        "title": "Illuminated Luxe Mirror",
+        "description": "Tall storage cabinet for kitchen use.",
+        "details": "Perfect for pantry items and kitchenware.",
+        "price": "6499",
+        "image": "https://plus.unsplash.com/premium_photo-1720486620020-c70516e9b69f?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fE1pcnJvcnMlMjBhbmQlMjBtZWRpY2luZSUyMGNhYmluZXRzJTIwYmF0aHJvb218ZW58MHx8MHx8fDA%3Dw"
+    },
+    {
+        "id": "7",
+        "title": "Minimalist Glass Panel",
+        "description": "Modern wall-mounted storage solution.",
+        "details": "Space-saving design with a contemporary look.",
+        "price": "2999",
+        "image": "https://images.unsplash.com/photo-1584069793933-57852d7060ea?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fE1pcnJvcnMlMjBhbmQlMjBtZWRpY2luZSUyMGNhYmluZXRzJTIwYmF0aHJvb218ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "8",
+        "title": "Rustic Farmhouse Mirror",
+        "description": "Elegant storage bench for hallways.",
+        "details": "Provides seating and storage in one piece.",
+        "price": "3999",
+        "image": "https://images.unsplash.com/photo-1556739664-787e863d09c4?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTR8fE1pcnJvcnMlMjBhbmQlMjBtZWRpY2luZSUyMGNhYmluZXRzJTIwYmF0aHJvb218ZW58MHx8MHx8fDA%3D"
+    }
+]
+}

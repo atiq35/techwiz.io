@@ -1,0 +1,332 @@
+{
+    "cabinets": [
+        {
+            "id": "1",
+            "title": "Classic Maple",
+            "description": "Comfortable and stylish sofa for your living room.",
+            "details": "This sofa features premium fabric upholstery, high-density foam cushions, and a solid wood frame. Available in various colors to match your interior.",
+            "price": "9999",
+            "image": "https://plus.unsplash.com/premium_photo-1683121043822-f24afbd6f386?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2FiaW5ldHMlMjBhbmQlMjBwYW50cmllc3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "2",
+            "title": "Modern Espresso",
+            "description": "Modern design with premium fabric.",
+            "details": "A sleek sofa with minimalist design, featuring durable fabric and stainless steel legs. Perfect for contemporary spaces.",
+            "price": "8999",
+            "image": "https://images.unsplash.com/photo-1504617063510-c86ab601b800?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Q2FiaW5ldHMlMjBhbmQlMjBwYW50cmllc3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "3",
+            "title": "White Shaker",
+            "description": "Elegant and minimalistic sofa set.",
+            "details": "This sofa set includes a three-seater and a loveseat, both designed with clean lines and neutral tones.",
+            "price": "11999",
+            "image": "https://images.unsplash.com/photo-1631049421410-b086044784b1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Q2FiaW5ldHMlMjBhbmQlMjBwYW50cmllc3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "4",
+            "title": "Rustic Oak",
+            "description": "Classic style with modern comfort.",
+            "details": "A timeless piece with rolled arms and tufted back, offering both style and comfort.",
+            "price": "10999",
+            "image": "https://images.unsplash.com/photo-1631048835473-73c7aaf86096?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fENhYmluZXRzJTIwYW5kJTIwcGFudHJpZXN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "5",
+            "title": "Elegant Walnut",
+            "description": "Luxurious leather sofa for high-end interiors.",
+            "details": "Crafted from top-grain leather, this sofa adds a touch of luxury to any living room.",
+            "price": "14999",
+            "image": "https://images.unsplash.com/photo-1722888879060-ed9d1e88c2c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fENhYmluZXRzJTIwYW5kJTIwcGFudHJpZXN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "6",
+            "title": "Navy Blue Matte",
+            "description": "Compact and comfortable for small spaces.",
+            "details": "Ideal for apartments, this compact sofa doesn't compromise on comfort.",
+            "price": "7999",
+            "image": "https://images.unsplash.com/photo-1683629357963-adf2b1fa9ad9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fENhYmluZXRzJTIwYW5kJTIwcGFudHJpZXN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "7",
+            "title": "Sleek Grey",
+            "description": "Bold design with premium upholstery.",
+            "details": "Features a bold color and soft velvet fabric, making it a statement piece.",
+            "price": "9999",
+            "image": "https://images.unsplash.com/photo-1631048501619-a27088a3bb70?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Q2FiaW5ldHMlMjBhbmQlMjBwYW50cmllc3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "8",
+            "title": "Antique White",
+            "description": "A contemporary sofa with a minimalist touch.",
+            "details": "Combines simplicity and elegance, suitable for modern interiors.",
+            "price": "8999",
+            "image": "https://images.unsplash.com/photo-1631049035343-da37e3e38630?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fENhYmluZXRzJTIwYW5kJTIwcGFudHJpZXN8ZW58MHx8MHx8fDA%3D"
+        }
+    ],
+    "counter": [
+        {
+            "id": "1",
+            "title": "Marble Luxe",
+            "description": "Elegant recliner for ultimate relaxation.",
+            "details": "This recliner offers adjustable positions and plush cushioning for maximum comfort.",
+            "price": "4999",
+            "image": "https://plus.unsplash.com/premium_photo-1680382578857-c331ead9ed51?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q291bnRlciUyMFRvcHN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "2",
+            "title": "Granite Stone",
+            "description": "Modern recliner with adjustable settings.",
+            "details": "Features electronic controls and a sleek design.",
+            "price": "5499",
+            "image": "https://images.unsplash.com/photo-1560562125-ab512e4d9d29?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q291bnRlciUyMFRvcHN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "3",
+            "title": "Quartz Elegance",
+            "description": "Ergonomic chair for office or home use.",
+            "details": "Provides lumbar support and adjustable height for better posture.",
+            "price": "2999",
+            "image": "https://images.unsplash.com/photo-1504617063510-c86ab601b800?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q291bnRlciUyMFRvcHN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "4",
+            "title": "Butcher Block",
+            "description": "Comfortable leather chair for living rooms.",
+            "details": "Upholstered in genuine leather with padded armrests.",
+            "price": "3999",
+            "image": "https://images.unsplash.com/photo-1526868452228-6590028c2fac?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Q291bnRlciUyMFRvcHN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "5",
+            "title": "Concrete Chic",
+            "description": "Classic rocking chair with a modern twist.",
+            "details": "Combines traditional rocking design with contemporary materials.",
+            "price": "3499",
+            "image": "https://plus.unsplash.com/premium_photo-1721521099763-8749fd1940bd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Q291bnRlciUyMFRvcHN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "6",
+            "title": "Soapstone Classic",
+            "description": "Luxurious lounge chair with plush cushions.",
+            "details": "Perfect for relaxation, featuring deep seating and soft fabrics.",
+            "price": "4499",
+            "image": "https://images.unsplash.com/photo-1516201479280-ae3034c9fe7c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fENvdW50ZXIlMjBUb3BzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "7",
+            "title": "Laminate Light",
+            "description": "Minimalist recliner with a sleek design.",
+            "details": "Offers comfort without compromising on style.",
+            "price": "3999",
+            "image": "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fENvdW50ZXIlMjBUb3BzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "8",
+            "title": "Reclaimed Wood",
+            "description": "Compact recliner for small spaces.",
+            "details": "A space-saving recliner that fits perfectly in cozy corners.",
+            "price": "2999",
+            "image": "https://images.unsplash.com/photo-1512914890251-2f96a9b0bbe2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fENvdW50ZXIlMjBUb3BzfGVufDB8fDB8fHww"
+        }
+    ],
+    "sinks": [
+        {
+            "id": "1",
+            "title": "Stainless Steel Classic",
+            "description": "Classic wooden dining table.",
+            "details": "Made from solid oak, seats up to six people comfortably.",
+            "price": "7999",
+            "image": "https://images.unsplash.com/photo-1628767719221-fdf36470b997?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U2lua3MlMjBhbmQlMjBmYXVjZXRzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "2",
+            "title": "Farmhouse Apron",
+            "description": "Modern glass coffee table.",
+            "details": "Features tempered glass top and chrome legs.",
+            "price": "2999",
+            "image": "https://plus.unsplash.com/premium_photo-1664299921729-dc0bc38e5cfc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fFNpbmtzJTIwYW5kJTIwZmF1Y2V0c3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "3",
+            "title": "Undermount Elegance",
+            "description": "Elegant marble top dining table.",
+            "details": "A luxurious table with a marble top and wooden base.",
+            "price": "9999",
+            "image": "https://images.unsplash.com/photo-1637665609537-26857a32f6cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fFNpbmtzJTIwYW5kJTIwZmF1Y2V0c3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "4",
+            "title": "Double Basin Delight",
+            "description": "Compact side table for bedrooms.",
+            "details": "Ideal for small spaces, with a drawer for storage.",
+            "price": "1999",
+            "image": "https://images.unsplash.com/photo-1564540583246-934409427776?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8U2lua3MlMjBhbmQlMjBmYXVjZXRzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "5",
+            "title": "Ceramic Charm",
+            "description": "Expandable wooden dining table.",
+            "details": "Adjustable length to accommodate more guests.",
+            "price": "8499",
+            "image": "https://plus.unsplash.com/premium_photo-1676890412948-6c266ed0309e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8U2lua3MlMjBhbmQlMjBmYXVjZXRzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "6",
+            "title": "Granite Composite",
+            "description": "Rustic coffee table for living rooms.",
+            "details": "Features reclaimed wood and a sturdy design.",
+            "price": "3499",
+            "image": "https://plus.unsplash.com/premium_photo-1663047725448-3da08cb9f053?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fFNpbmtzJTIwYW5kJTIwZmF1Y2V0c3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "7",
+            "title": "Bar Sink Beauty",
+            "description": "Minimalist dining table for modern spaces.",
+            "details": "Sleek lines and neutral colors to fit any decor.",
+            "price": "7499",
+            "image": "https://images.unsplash.com/photo-1564540579594-0930edb6de43?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fFNpbmtzJTIwYW5kJTIwZmF1Y2V0c3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "8",
+            "title": "Vintage Copper",
+            "description": "Glass top table with metal legs.",
+            "details": "A contemporary piece perfect for dining or workspace.",
+            "price": "3999",
+            "image": "https://images.unsplash.com/photo-1610276173132-c47d148ab626?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fFNpbmtzJTIwYW5kJTIwZmF1Y2V0c3xlbnwwfHwwfHx8MA%3D%3D"
+        }
+    ],
+    "kitchen island": [
+        {
+            "id": "1",
+            "title": "Modern Minimalist",
+            "description": "King-size bed with upholstered headboard.",
+            "details": "Features a padded headboard and solid wood frame.",
+            "price": "12999",
+            "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8S2l0Y2hlbiUyMElzbGFuZHMlMjBhbmQlMjBjYXJ0c3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "2",
+            "title": "Rustic Farmhouse",
+            "description": "Modern bed frame with storage underneath.",
+            "details": "Maximize space with built-in drawers.",
+            "price": "9999",
+            "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8S2l0Y2hlbiUyMElzbGFuZHMlMjBhbmQlMjBjYXJ0c3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "3",
+            "title": "Marble Elegance",
+            "description": "Elegant wooden bed frame for master bedrooms.",
+            "details": "Crafted from high-quality oak with intricate designs.",
+            "price": "11999",
+            "image": "https://images.unsplash.com/photo-1556910096-6f5e72db6803?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8S2l0Y2hlbiUyMElzbGFuZHMlMjBhbmQlMjBjYXJ0c3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "4",
+            "title": "Bed 4",
+            "description": "Queen-size bed with memory foam mattress.",
+            "details": "Includes a premium mattress for ultimate comfort.",
+            "price": "10999",
+            "image": "https://images.unsplash.com/photo-1556909211-36987daf7b4d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEtpdGNoZW4lMjBJc2xhbmRzJTIwYW5kJTIwY2FydHN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "5",
+            "title": "Luxe Quartz",
+            "description": "Classic metal bed frame with modern design.",
+            "details": "Durable metal construction with a minimalist look.",
+            "price": "8999",
+            "image": "https://images.unsplash.com/photo-1564540586988-aa4e53c3d799?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fEtpdGNoZW4lMjBJc2xhbmRzJTIwYW5kJTIwY2FydHN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "6",
+            "title": "Compact Corner",
+            "description": "Minimalist platform bed for small spaces.",
+            "details": "Low-profile design that's perfect for compact rooms.",
+            "price": "7999",
+            "image": "https://images.unsplash.com/photo-1556909190-eccf4a8bf97a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fEtpdGNoZW4lMjBJc2xhbmRzJTIwYW5kJTIwY2FydHN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "7",
+            "title": "Multi-Functional Hub",
+            "description": "Luxury bed with premium mattress.",
+            "details": "Experience unparalleled comfort and support.",
+            "price": "13999",
+            "image": "https://images.unsplash.com/photo-1541123437800-1bb1317badc2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fEtpdGNoZW4lMjBJc2xhbmRzJTIwYW5kJTIwY2FydHN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "8",
+            "title": "Industrial Chic",
+            "description": "Sleek modern bed with headboard lighting.",
+            "details": "Features built-in LED lights for ambient lighting.",
+            "price": "11999",
+            "image": "https://images.unsplash.com/photo-1556912998-c57cc6b63cd7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fEtpdGNoZW4lMjBJc2xhbmRzJTIwYW5kJTIwY2FydHN8ZW58MHx8MHx8fDA%3D"
+        }
+    ],
+    "backsplashes": [
+    {
+        "id": "1",
+        "title": "Classic Subway",
+        "description": "Timeless and versatile subway tile design.",
+        "details": "Perfect for a clean and classic look.",
+        "price": "8999",
+        "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a2l0Y2hlbiUyMEJhY2tzcGxhc2hlc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "2",
+        "title": "Mosaic Magic",
+        "description": "Intricate mosaic patterns for a unique touch.",
+        "details": "A blend of colors and shapes.",
+        "price": "4999",
+        "image": "https://plus.unsplash.com/premium_photo-1664443944683-ee065c3b88c8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2l0Y2hlbiUyMEJhY2tzcGxhc2hlc3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "id": "3",
+        "title": "Geometric Glam",
+        "description": "Stylish geometric tiles that elevate your kitchen.",
+        "details": "Modern design with a sleek finish.",
+        "price": "1999",
+        "image": "https://plus.unsplash.com/premium_photo-1661583809664-162617cc6517?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGtpdGNoZW4lMjBCYWNrc3BsYXNoZXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "4",
+        "title": "Textured Tiles",
+        "description": "Tiles with a unique texture for added depth.",
+        "details": "Great for creating visual interest.",
+        "price": "2499",
+        "image": "https://images.unsplash.com/photo-1556909190-eccf4a8bf97a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGtpdGNoZW4lMjBCYWNrc3BsYXNoZXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "5",
+        "title": "Vintage Charm",
+        "description": "Retro-inspired tiles that bring warmth to your space.",
+        "details": "Perfect for a cozy, inviting kitchen.",
+        "price": "5499",
+        "image": "https://plus.unsplash.com/premium_photo-1661438098400-757859c2f6fe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fGtpdGNoZW4lMjBCYWNrc3BsYXNoZXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "6",
+        "title": "Bold Colors",
+        "description": "Vibrant tiles that make a statement.",
+        "details": "Ideal for a modern and artistic kitchen.",
+        "price": "6499",
+        "image": "https://plus.unsplash.com/premium_photo-1714675739403-ba377dfff0d4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGtpdGNoZW4lMjBCYWNrc3BsYXNoZXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "7",
+        "title": "Natural Stone",
+        "description": "Elegant natural stone for a rustic look.",
+        "details": "Adds a touch of nature to your kitchen.",
+        "price": "2999",
+        "image": "https://images.unsplash.com/photo-1541123437800-1bb1317badc2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGtpdGNoZW4lMjBCYWNrc3BsYXNoZXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "8",
+        "title": "Sleek Glass",
+        "description": "Contemporary glass tiles for a polished finish.",
+        "details": "Reflects light and enhances space.",
+        "price": "3999",
+        "image": "https://images.unsplash.com/photo-1514986888952-8cd320577b68?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fGtpdGNoZW4lMjBCYWNrc3BsYXNoZXN8ZW58MHx8MHx8fDA%3D"
+    }
+] 
+}

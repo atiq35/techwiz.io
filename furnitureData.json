@@ -1,0 +1,266 @@
+{
+    "livingRoom": [
+        {
+            "id": 1,
+            "title": "Modern Sofa",
+            "description": "A comfortable and stylish modern sofa.",
+            "price": 499,
+            "image": "https://plus.unsplash.com/premium_photo-1672109012124-4a8a760284ed?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bGl2aW5nUm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 2,
+            "title": "Luxury Couch",
+            "description": "Elegant and luxurious couch for your living room.",
+            "price": 699,
+            "image": "https://plus.unsplash.com/premium_photo-1683141443663-503f4140c667?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bGl2aW5nUm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 3,
+            "title": "Leather Recliner",
+            "description": "Premium leather recliner with a modern design.",
+            "price": 299,
+            "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bGl2aW5nUm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 4,
+            "title": "Classic Armchair",
+            "description": "A timeless armchair perfect for any living space.",
+            "price": 199,
+            "image": "https://plus.unsplash.com/premium_photo-1706140675031-1e0548986ad1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bGl2aW5nUm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 5,
+            "title": "Wooden Coffee Table",
+            "description": "A sleek wooden coffee table with a contemporary design.",
+            "price": 149,
+            "image": "https://images.unsplash.com/photo-1655392032265-fdf00640d2ad?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGxpdmluZ1Jvb218ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": 6,
+            "title": "Glass Side Table",
+            "description": "Minimalistic glass side table to complement your sofa.",
+            "price": 99,
+            "image": "https://images.unsplash.com/photo-1631889477974-6394c9988436?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGxpdmluZ1Jvb218ZW58MHx8MHx8fDA%3D"
+        }
+    ],
+    "kitchen": [
+        {
+            "id": 1,
+            "title": "Modern Kitchen Island",
+            "description": "A functional and stylish kitchen island.",
+            "price": 899,
+            "image": "https://plus.unsplash.com/premium_photo-1680382578857-c331ead9ed51?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8a2l0Y2hlbnxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 2,
+            "title": "Stainless Steel Refrigerator",
+            "description": "Energy-efficient refrigerator with a sleek design.",
+            "price": 1199,
+            "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8a2l0Y2hlbnxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 3,
+            "title": "Wooden Dining Set",
+            "description": "A six-piece wooden dining set for family meals.",
+            "price": 699,
+            "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8a2l0Y2hlbnxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 4,
+            "title": "Modern Bar Stool",
+            "description": "A stylish and comfortable bar stool for your kitchen counter.",
+            "price": 129,
+            "image": "https://plus.unsplash.com/premium_photo-1661962720375-ce9097fb4d69?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8a2l0Y2hlbnxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 5,
+            "title": "Compact Dishwasher",
+            "description": "A space-saving, energy-efficient dishwasher.",
+            "price": 499,
+            "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8a2l0Y2hlbnxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 6,
+            "title": "Ceramic Cookware Set",
+            "description": "A premium 10-piece ceramic cookware set.",
+            "price": 199,
+            "image": "https://images.unsplash.com/photo-1556910096-6f5e72db6803?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8a2l0Y2hlbnxlbnwwfHwwfHx8MA%3D%3D"
+        }
+    ],
+    "bedroom": [
+        {
+            "id": 1,
+            "title": "Queen Size Bed Frame",
+            "description": "Elegant and sturdy queen size bed frame.",
+            "price": 499,
+            "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YmVkcm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 2,
+            "title": "Memory Foam Mattress",
+            "description": "Luxurious memory foam mattress for a restful sleep.",
+            "price": 799,
+            "image": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmVkcm9vbXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 3,
+            "title": "Wooden Nightstand",
+            "description": "A classic wooden nightstand with storage drawers.",
+            "price": 149,
+            "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGJlZHJvb218ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": 4,
+            "title": "Dresser with Mirror",
+            "description": "A spacious dresser with an attached mirror.",
+            "price": 299,
+            "image": "https://images.unsplash.com/photo-1512918580421-b2feee3b85a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGJlZHJvb218ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": 5,
+            "title": "Bedside Lamp",
+            "description": "A modern bedside lamp with adjustable brightness.",
+            "price": 79,
+            "image": "https://images.unsplash.com/photo-1512918580421-b2feee3b85a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGJlZHJvb218ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": 6,
+            "title": "Wardrobe Closet",
+            "description": "A large wardrobe closet for storing clothes.",
+            "price": 699,
+            "image": "https://plus.unsplash.com/premium_photo-1683120852623-143817d6400b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fGJlZHJvb218ZW58MHx8MHx8fDA%3D"
+        }
+    ],
+    "bathroom": [
+        {
+            "id": 1,
+            "title": "Marble Vanity",
+            "description": "A luxurious marble vanity for your bathroom.",
+            "price": 899,
+            "image": "https://plus.unsplash.com/premium_photo-1661902468735-eabf780f8ff6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmF0aHJvb218ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": 2,
+            "title": "Freestanding Bathtub",
+            "description": "A modern freestanding bathtub for ultimate relaxation.",
+            "price": 1299,
+            "image": "https://images.unsplash.com/photo-1507086182422-97bd7ca2413b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGJhdGhyb29tfGVufDB8fDB8fHww"
+        },
+        {
+            "id": 3,
+            "title": "Shower System",
+            "description": "A complete shower system with rain showerhead.",
+            "price": 499,
+            "image": "https://images.unsplash.com/photo-1564540583246-934409427776?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGJhdGhyb29tfGVufDB8fDB8fHww"
+        },
+        {
+            "id": 4,
+            "title": "Towel Warmer",
+            "description": "Keep your towels warm with this electric towel warmer.",
+            "price": 149,
+            "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGJhdGhyb29tfGVufDB8fDB8fHww"
+        },
+        {
+            "id": 5,
+            "title": "Modern Sink",
+            "description": "A stylish sink with chrome finish.",
+            "price": 299,
+            "image": "https://plus.unsplash.com/premium_photo-1683134280183-e379783adb3f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGJhdGhyb29tfGVufDB8fDB8fHww"
+        },
+        {
+            "id": 6,
+            "title": "Storage Cabinet",
+            "description": "A sleek bathroom cabinet for additional storage.",
+            "price": 249,
+            "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGJhdGhyb29tfGVufDB8fDB8fHww"
+        }
+    ],
+    "contemporaryStyles": [
+        {
+            "id": 1,
+            "title": "Minimalist Chair",
+            "description": "A sleek chair with a minimalist design.",
+            "price": 199,
+            "image": "https://cdn-bnokp.nitrocdn.com/QNoeDwCprhACHQcnEmHgXDhDpbEOlRHH/assets/images/optimized/rev-6f3a0f5/www.decorilla.com/online-decorating/wp-content/uploads/2023/11/Cozy-and-warm-small-mid-century-living-room-with-fireplace-by-Decorilla-1536x861.jpeg"
+        },
+        {
+            "id": 2,
+            "title": "Glass Coffee Table",
+            "description": "A contemporary glass coffee table with metal legs.",
+            "price": 299,
+            "image": "https://cdn-bnokp.nitrocdn.com/QNoeDwCprhACHQcnEmHgXDhDpbEOlRHH/assets/images/optimized/rev-6f3a0f5/www.decorilla.com/online-decorating/wp-content/uploads/2023/11/Black-marble-waterfall-countertop-in-a-moody-masculine-kitchen-by-Decorilla.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Abstract Wall Art",
+            "description": "Modern abstract wall art to complement any room.",
+            "price": 149,
+            "image": "https://cdn-bnokp.nitrocdn.com/QNoeDwCprhACHQcnEmHgXDhDpbEOlRHH/assets/images/optimized/rev-6f3a0f5/www.decorilla.com/online-decorating/wp-content/uploads/2023/11/Artistic-living-room-by-Decorilla-1536x861.jpeg"
+        },
+        {
+            "id": 4,
+            "title": "Contemporary Sofa",
+            "description": "A stylish sofa with a sleek design.",
+            "price": 699,
+            "image": "https://cdn-bnokp.nitrocdn.com/QNoeDwCprhACHQcnEmHgXDhDpbEOlRHH/assets/images/optimized/rev-6f3a0f5/www.decorilla.com/online-decorating/wp-content/uploads/2023/11/Rustic-cabin-interior-by-Decorilla-1536x1024.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Chrome Floor Lamp",
+            "description": "A modern chrome floor lamp for a contemporary space.",
+            "price": 99,
+            "image": "https://cdn-bnokp.nitrocdn.com/QNoeDwCprhACHQcnEmHgXDhDpbEOlRHH/assets/images/optimized/rev-6f3a0f5/www.decorilla.com/online-decorating/wp-content/uploads/2023/11/Sleek-loft-interior-design-showcasing-modern-aesthetics-by-Decorilla.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Metallic Side Table",
+            "description": "A metallic side table with a modern look.",
+            "price": 199,
+            "image": "https://cdn-bnokp.nitrocdn.com/QNoeDwCprhACHQcnEmHgXDhDpbEOlRHH/assets/images/optimized/rev-6f3a0f5/www.decorilla.com/online-decorating/wp-content/uploads/2023/11/Contemporary-patio-design-style-by-Decorilla-1536x1024.jpeg"
+        }
+    ],
+    "elegantLookStyles": [
+        {
+            "id": 1,
+            "title": "Velvet Sofa",
+            "description": "A luxurious velvet sofa with an elegant look.",
+            "price": 999,
+            "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGhvbWUlMjBlbGVnYW50TG9va1N0eWxlc3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 2,
+            "title": "Crystal Chandelier",
+            "description": "A breathtaking crystal chandelier for a regal look.",
+            "price": 799,
+            "image": "https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGhvbWUlMjBlbGVnYW50TG9va1N0eWxlc3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 3,
+            "title": "Marble Dining Table",
+            "description": "An elegant marble dining table for a sophisticated setting.",
+            "price": 1299,
+            "image": "https://images.unsplash.com/photo-1501183638710-841dd1904471?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGhvbWUlMjBlbGVnYW50TG9va1N0eWxlc3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 4,
+            "title": "Gold Accent Mirror",
+            "description": "A decorative gold-framed mirror for an opulent touch.",
+            "price": 399,
+            "image": "https://images.unsplash.com/photo-1528255671579-01b9e182ed1d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGhvbWUlMjBlbGVnYW50TG9va1N0eWxlc3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 5,
+            "title": "Velvet Armchair",
+            "description": "A plush velvet armchair with intricate details.",
+            "price": 499,
+            "image": "https://images.unsplash.com/photo-1519643381401-22c77e60520e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fGhvbWUlMjBlbGVnYW50TG9va1N0eWxlc3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": 6,
+            "title": "Glass Console Table",
+            "description": "A sleek glass console table with gold accents.",
+            "price": 599,
+            "image": "https://images.unsplash.com/photo-1460533893735-45cea2212645?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fGhvbWUlMjBlbGVnYW50TG9va1N0eWxlc3xlbnwwfHwwfHx8MA%3D%3D"
+        }
+    ]
+}

@@ -1,0 +1,332 @@
+{
+    "rugs": [
+    {
+        "id": "1",
+        "title": "Luxe Loom",
+        "description": "Comfortable and stylish sofa for your living room.",
+        "details": "This sofa features premium fabric upholstery, high-density foam cushions, and a solid wood frame. Available in various colors to match your interior.",
+        "price": "9999",
+        "image": "https://plus.unsplash.com/premium_photo-1725387211013-14d910339c29?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8UnVncyUyMGFuZCUyMGNhcnBldHN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "2",
+        "title": "Velvet Weave",
+        "description": "Modern design with premium fabric.",
+        "details": "A sleek sofa with minimalist design, featuring durable fabric and stainless steel legs. Perfect for contemporary spaces.",
+        "price": "8999",
+        "image": "https://images.unsplash.com/photo-1608724552908-e1c141f631ac?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UnVncyUyMGFuZCUyMGNhcnBldHN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "3",
+        "title": "Heritage Threads",
+        "description": "Elegant and minimalistic sofa set.",
+        "details": "This sofa set includes a three-seater and a loveseat, both designed with clean lines and neutral tones.",
+        "price": "11999",
+        "image": "https://plus.unsplash.com/premium_photo-1725721362096-d101d25ece6d?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fFJ1Z3MlMjBhbmQlMjBjYXJwZXRzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "4",
+        "title": "Serene Step",
+        "description": "Classic style with modern comfort.",
+        "details": "A timeless piece with rolled arms and tufted back, offering both style and comfort.",
+        "price": "10999",
+        "image": "https://images.unsplash.com/photo-1635188132131-a86fb4fd6681?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fFJ1Z3MlMjBhbmQlMjBjYXJwZXRzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "5",
+        "title": "Royal Tassel",
+        "description": "Luxurious leather sofa for high-end interiors.",
+        "details": "Crafted from top-grain leather, this sofa adds a touch of luxury to any living room.",
+        "price": "14999",
+        "image": "https://images.unsplash.com/photo-1633368098520-1e52333867eb?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fFJ1Z3MlMjBhbmQlMjBjYXJwZXRzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "6",
+        "title": "Nomad Plush",
+        "description": "Compact and comfortable for small spaces.",
+        "details": "Ideal for apartments, this compact sofa doesn't compromise on comfort.",
+        "price": "7999",
+        "image": "https://images.unsplash.com/photo-1508589066756-c5dfb2cb7587?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fFJ1Z3MlMjBhbmQlMjBjYXJwZXRzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "7",
+        "title": "Haven Blend",
+        "description": "Bold design with premium upholstery.",
+        "details": "Features a bold color and soft velvet fabric, making it a statement piece.",
+        "price": "9999",
+        "image": "https://images.unsplash.com/photo-1675177649590-22a42a90cdd7?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fFJ1Z3MlMjBhbmQlMjBjYXJwZXRzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "8",
+        "title": "Classic Fiber",
+        "description": "A contemporary sofa with a minimalist touch.",
+        "details": "Combines simplicity and elegance, suitable for modern interiors.",
+        "price": "8999",
+        "image": "https://images.unsplash.com/photo-1669046637776-ad0f4e7cb827?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fFJ1Z3MlMjBhbmQlMjBjYXJwZXRzfGVufDB8fDB8fHww"
+    }
+],
+    "curtain": [
+    {
+        "id": "1",
+        "title": "Silken Shade",
+        "description": "Elegant recliner for ultimate relaxation.",
+        "details": "This recliner offers adjustable positions and plush cushioning for maximum comfort.",
+        "price": "4999",
+        "image": "https://images.unsplash.com/photo-1616856137831-38f9aba296a9?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Q3VydGFpbnMlMjBhbmQlMjBibGluZHN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "2",
+        "title": "Elegance Drape",
+        "description": "Modern recliner with adjustable settings.",
+        "details": "Features electronic controls and a sleek design.",
+        "price": "5499",
+        "image": "https://images.unsplash.com/photo-1473893604213-3df9c15611c0?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Q3VydGFpbnMlMjBhbmQlMjBibGluZHN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "3",
+        "title": "Velvet Veil",
+        "description": "Ergonomic chair for office or home use.",
+        "details": "Provides lumbar support and adjustable height for better posture.",
+        "price": "2999",
+        "image": "https://images.unsplash.com/photo-1517061770834-e782eb50e9d6?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fEN1cnRhaW5zJTIwYW5kJTIwYmxpbmRzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "4",
+        "title": "Luminous Loom",
+        "description": "Comfortable leather chair for living rooms.",
+        "details": "Upholstered in genuine leather with padded armrests.",
+        "price": "3999",
+        "image": "https://images.unsplash.com/photo-1528501905679-0eb90962e249?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEN1cnRhaW5zJTIwYW5kJTIwYmxpbmRzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "5",
+        "title": "Serenity Sheer",
+        "description": "Classic rocking chair with a modern twist.",
+        "details": "Combines traditional rocking design with contemporary materials.",
+        "price": "3499",
+        "image": "https://images.unsplash.com/photo-1609423433459-a65b330ef5da?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEN1cnRhaW5zJTIwYW5kJTIwYmxpbmRzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "6",
+        "title": "Urban Fold",
+        "description": "Luxurious lounge chair with plush cushions.",
+        "details": "Perfect for relaxation, featuring deep seating and soft fabrics.",
+        "price": "4499",
+        "image": "https://images.unsplash.com/photo-1515521761069-02158f96cac7?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fEN1cnRhaW5zJTIwYW5kJTIwYmxpbmRzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "7",
+        "title": "Heritage Hangings",
+        "description": "Minimalist recliner with a sleek design.",
+        "details": "Offers comfort without compromising on style.",
+        "price": "3999",
+        "image": "https://images.unsplash.com/photo-1616737833567-11ec6210c5a7?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fEN1cnRhaW5zJTIwYW5kJTIwYmxpbmRzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "8",
+        "title": "Twilight Twist",
+        "description": "Compact recliner for small spaces.",
+        "details": "A space-saving recliner that fits perfectly in cozy corners.",
+        "price": "2999",
+        "image": "https://images.unsplash.com/photo-1560633990-425f091ab830?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fEN1cnRhaW5zJTIwYW5kJTIwYmxpbmRzfGVufDB8fDB8fHww"
+    }
+],
+    "wall": [
+    {
+        "id": "1",
+        "title": "Radiant Reflections",
+        "description": "Classic wooden dining table.",
+        "details": "Made from solid oak, seats up to six people comfortably.",
+        "price": "7999",
+        "image": "https://plus.unsplash.com/premium_photo-1664302204783-edba4c4f6eaa?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8V2FsbCUyMGFydCUyMGFuZCUyME1pcnJvcnN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "2",
+        "title": "Ethereal Echo",
+        "description": "Modern glass coffee table.",
+        "details": "Features tempered glass top and chrome legs.",
+        "price": "2999",
+        "image": "https://images.unsplash.com/photo-1565038941323-e5ceac0fcde2?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8V2FsbCUyMGFydCUyMGFuZCUyME1pcnJvcnN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "3",
+        "title": "Mystic Mosaic",
+        "description": "Elegant marble top dining table.",
+        "details": "A luxurious table with a marble top and wooden base.",
+        "price": "9999",
+        "image": "https://plus.unsplash.com/premium_photo-1706430433607-48f37bdd71b8?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8V2FsbCUyMGFydCUyMGFuZCUyME1pcnJvcnN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "4",
+        "title": "Prismatic Panels",
+        "description": "Compact side table for bedrooms.",
+        "details": "Ideal for small spaces, with a drawer for storage.",
+        "price": "1999",
+        "image": "https://images.unsplash.com/flagged/photo-1551373916-bdaddbf4f881?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8V2FsbCUyMGFydCUyMGFuZCUyME1pcnJvcnN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "5",
+        "title": "Celestial Canvas",
+        "description": "Expandable wooden dining table.",
+        "details": "Adjustable length to accommodate more guests.",
+        "price": "8499",
+        "image": "https://images.unsplash.com/photo-1536512060368-013a40c3f1c7?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8V2FsbCUyMGFydCUyMGFuZCUyME1pcnJvcnN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "6",
+        "title": "Abstract Aura",
+        "description": "Rustic coffee table for living rooms.",
+        "details": "Features reclaimed wood and a sturdy design.",
+        "price": "3499",
+        "image": "https://images.unsplash.com/photo-1571907483083-af70aeda3285?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fFdhbGwlMjBhcnQlMjBhbmQlMjBNaXJyb3JzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "7",
+        "title": "Vintage Visage",
+        "description": "Minimalist dining table for modern spaces.",
+        "details": "Sleek lines and neutral colors to fit any decor.",
+        "price": "7499",
+        "image": "https://images.unsplash.com/photo-1598017757915-cdc387a08f95?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fFdhbGwlMjBhcnQlMjBhbmQlMjBNaXJyb3JzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "8",
+        "title": "Horizon Harmony",
+        "description": "Glass top table with metal legs.",
+        "details": "A contemporary piece perfect for dining or workspace.",
+        "price": "3999",
+        "image": "https://plus.unsplash.com/premium_photo-1706430433638-b9f3183a496e?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fFdhbGwlMjBhcnQlMjBhbmQlMjBNaXJyb3JzfGVufDB8fDB8fHww"
+    }
+],
+    "cushion": [
+    {
+        "id": "1",
+        "title": "Cozy Cloud",
+        "description": "King-size bed with upholstered headboard.",
+        "details": "Features a padded headboard and solid wood frame.",
+        "price": "12999",
+        "image": "https://plus.unsplash.com/premium_photo-1682000109252-f8509e973d22?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q3VzaGlvbnMlMjBhbmQlMjB0aHJvd3N8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "2",
+        "title": "Velvet Whisper",
+        "description": "Modern bed frame with storage underneath.",
+        "details": "Maximize space with built-in drawers.",
+        "price": "9999",
+        "image": "https://images.unsplash.com/photo-1516193760437-921ec3701677?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Q3VzaGlvbnMlMjBhbmQlMjB0aHJvd3N8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "3",
+        "title": "Patterned Bliss",
+        "description": "Elegant wooden bed frame for master bedrooms.",
+        "details": "Crafted from high-quality oak with intricate designs.",
+        "price": "11999",
+        "image": "https://images.unsplash.com/photo-1508253578933-20b529302151?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Q3VzaGlvbnMlMjBhbmQlMjB0aHJvd3N8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "4",
+        "title": "Serene Silk",
+        "description": "Queen-size bed with memory foam mattress.",
+        "details": "Includes a premium mattress for ultimate comfort.",
+        "price": "10999",
+        "image": "https://images.unsplash.com/photo-1511554871707-cb50b6ea37e5?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fEN1c2hpb25zJTIwYW5kJTIwdGhyb3dzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "5",
+        "title": "Rustic Warmth",
+        "description": "Classic metal bed frame with modern design.",
+        "details": "Durable metal construction with a minimalist look.",
+        "price": "8999",
+        "image": "https://images.unsplash.com/photo-1505692795793-20f543407193?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fEN1c2hpb25zJTIwYW5kJTIwdGhyb3dzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "6",
+        "title": "Geometric Grace",
+        "description": "Minimalist platform bed for small spaces.",
+        "details": "Low-profile design that's perfect for compact rooms.",
+        "price": "7999",
+        "image": "https://images.unsplash.com/photo-1483962550854-480cf765f227?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEN1c2hpb25zJTIwYW5kJTIwdGhyb3dzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "7",
+        "title": "Soft Haven",
+        "description": "Luxury bed with premium mattress.",
+        "details": "Experience unparalleled comfort and support.",
+        "price": "13999",
+        "image": "https://plus.unsplash.com/premium_photo-1666211974997-7b912a7b4cdc?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fEN1c2hpb25zJTIwYW5kJTIwdGhyb3dzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "8",
+        "title": "Textured Comfort",
+        "description": "Sleek modern bed with headboard lighting.",
+        "details": "Features built-in LED lights for ambient lighting.",
+        "price": "11999",
+        "image": "https://plus.unsplash.com/premium_photo-1664443944820-1c8172c3d4a7?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fEN1c2hpb25zJTIwYW5kJTIwdGhyb3dzfGVufDB8fDB8fHww"
+    }
+],
+"vases": [
+    {
+        "id": "1",
+        "title": "Floral Essence",
+        "description": "Spacious wooden wardrobe for bedroom.",
+        "details": "Includes hanging space, shelves, and drawers.",
+        "price": "8999",
+        "image": "https://images.unsplash.com/photo-1463320898484-cdee8141c787?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8VmFzZXMlMjBhbmQlMjBwbGFudCUyMHBvdHN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "2",
+        "title": "Verdant Bloom",
+        "description": "Modern storage cabinet for living room.",
+        "details": "Features glass doors and adjustable shelves.",
+        "price": "4999",
+        "image": "https://images.unsplash.com/photo-1460461499329-f6b87a045649?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VmFzZXMlMjBhbmQlMjBwbGFudCUyMHBvdHN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "3",
+        "title": "Harmony Vase",
+        "description": "Compact storage shelf for small spaces.",
+        "details": "Ideal for books, decor, or small items.",
+        "price": "1999",
+        "image": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFZhc2VzJTIwYW5kJTIwcGxhbnQlMjBwb3RzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "4",
+        "title": "Leafy Splendor",
+        "description": "Stylish shoe rack with multiple tiers.",
+        "details": "Holds up to 20 pairs of shoes.",
+        "price": "2499",
+        "image": "https://plus.unsplash.com/premium_photo-1661255377350-a19633036ec3?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8VmFzZXMlMjBhbmQlMjBwbGFudCUyMHBvdHN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "5",
+        "title": "Zen Garden",
+        "description": "Classic wooden chest of drawers.",
+        "details": "Five spacious drawers with smooth gliding tracks.",
+        "price": "5499",
+        "image": "https://images.unsplash.com/photo-1502920873987-ac48e660a95d?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8VmFzZXMlMjBhbmQlMjBwbGFudCUyMHBvdHN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "id": "6",
+        "title": "Botanical Elegance",
+        "description": "Tall storage cabinet for kitchen use.",
+        "details": "Perfect for pantry items and kitchenware.",
+        "price": "6499",
+        "image": "https://images.unsplash.com/photo-1526319601710-b83bec6bd3d2?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFZhc2VzJTIwYW5kJTIwcGxhbnQlMjBwb3RzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "7",
+        "title": "Blossom Aura",
+        "description": "Modern wall-mounted storage solution.",
+        "details": "Space-saving design with a contemporary look.",
+        "price": "2999",
+        "image": "https://images.unsplash.com/photo-1508873787497-1b513a18217a?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fFZhc2VzJTIwYW5kJTIwcGxhbnQlMjBwb3RzfGVufDB8fDB8fHww"
+    },
+    {
+        "id": "8",
+        "title": "Nature's Charm",
+        "description": "Elegant storage bench for hallways.",
+        "details": "Provides seating and storage in one piece.",
+        "price": "3999",
+        "image": "https://images.unsplash.com/photo-1524492449090-a4e289316d9c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fFZhc2VzJTIwYW5kJTIwcGxhbnQlMjBwb3RzfGVufDB8fDB8fHww"
+    }
+]
+}

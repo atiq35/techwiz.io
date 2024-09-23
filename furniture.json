@@ -1,0 +1,332 @@
+{
+    "sofas": [
+        {
+            "id": "1",
+            "title": "Sectional Sofa",
+            "description": "Modern design with premium fabric.",
+            "details": "This sofa features premium fabric upholstery, high-density foam cushions, and a solid wood frame. Available in various colors to match your interior.",
+            "price": "9999",
+            "image": "https://urbangalleria.com/cdn/shop/products/6bd375a5260c78f8c9195d5134725bf4a692c26a_SOFRSN002BLU_UK_Rosslyn_Click_Clack_Sofa_Bed_Ink_Blue_Velvet_ar3_2_LB02_LS_1024x1024.jpg?v=1621426969"
+        },
+        {
+            "id": "2",
+            "title": "Chesterfield Sofa",
+            "description": "Modern design with premium fabric.",
+            "details": "A sleek sofa with minimalist design, featuring durable fabric and stainless steel legs. Perfect for contemporary spaces.",
+            "price": "8999",
+            "image": "https://images.unsplash.com/photo-1610671907053-43f668ff3d74?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c29mYXMlMjBhbmQlMjBjb3VjaGVzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "3",
+            "title": "Sleeper Sofa",
+            "description": "Elegant and minimalistic sofa set.",
+            "details": "This sofa set includes a three-seater and a loveseat, both designed with clean lines and neutral tones.",
+            "price": "11999",
+            "image": "https://plus.unsplash.com/premium_photo-1673014201217-14442b17ab56?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c29mYXMlMjBhbmQlMjBjb3VjaGVzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "4",
+            "title": "Loveseat Sofa",
+            "description": "Classic style with modern comfort.",
+            "details": "A timeless piece with rolled arms and tufted back, offering both style and comfort.",
+            "price": "10999",
+            "image": "https://images.unsplash.com/photo-1708080717845-e6a3abd58943?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHNvZmFzJTIwYW5kJTIwY291Y2hlc3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "5",
+            "title": "Recliner Sofa",
+            "description": "Luxurious leather sofa for high-end interiors.",
+            "details": "Crafted from top-grain leather, this sofa adds a touch of luxury to any living room.",
+            "price": "14999",
+            "image": "https://images.unsplash.com/photo-1716703433576-13ff2922db95?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHNvZmFzJTIwYW5kJTIwY291Y2hlc3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "6",
+            "title": "Mid-Century Modern Sofa",
+            "description": "Compact and comfortable for small spaces.",
+            "details": "Ideal for apartments, this compact sofa doesn't compromise on comfort.",
+            "price": "7999",
+            "image": "https://images.unsplash.com/photo-1643913590859-c81793b54649?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHNvZmFzJTIwYW5kJTIwY291Y2hlc3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "7",
+            "title": "Tuxedo Sofa",
+            "description": "Compact and comfortable for small spaces.",
+            "details": "Features a bold color and soft velvet fabric, making it a statement piece.",
+            "price": "9999",
+            "image": "https://plus.unsplash.com/premium_photo-1673014201324-54bab699c3b4?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHNvZmFzJTIwYW5kJTIwY291Y2hlc3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "8",
+            "title": "Lawson Sofa",
+            "description": "A contemporary sofa with a minimalist touch.",
+            "details": "Combines simplicity and elegance, suitable for modern interiors.",
+            "price": "8999",
+            "image": "https://images.unsplash.com/photo-1601086386762-0620518df7f9?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fHNvZmFzJTIwYW5kJTIwY291Y2hlc3xlbnwwfHwwfHx8MA%3D%3D"
+        }
+    ],
+    "chairs": [
+        {
+            "id": "1",
+            "title": "Club Chair",
+            "description": "Elegant recliner for ultimate relaxation.",
+            "details": "This recliner offers adjustable positions and plush cushioning for maximum comfort.",
+            "price": "4999",
+            "image": "https://plus.unsplash.com/premium_photo-1663050975274-58f0a7ceca08?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hhaXIlMjBhbmQlMjBSZWNsaW5lcnN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "2",
+            "title": "Rocker Recliner",
+            "description": "Modern recliner with adjustable settings.",
+            "details": "Features electronic controls and a sleek design.",
+            "price": "5499",
+            "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2hhaXIlMjBhbmQlMjBSZWNsaW5lcnN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "3",
+            "title": "Papasan Chair",
+            "description": "Ergonomic chair for office or home use.",
+            "details": "Provides lumbar support and adjustable height for better posture.",
+            "price": "2999",
+            "image": "https://images.unsplash.com/photo-1707848106960-74e1b223297b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2hhaXIlMjBhbmQlMjBSZWNsaW5lcnN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "4",
+            "title": "Wall-Hugger Recliner",
+            "description": "Comfortable leather chair for living rooms.",
+            "details": "Upholstered in genuine leather with padded armrests.",
+            "price": "3999",
+            "image": "https://images.unsplash.com/photo-1464288550599-43d5a73451b8?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y2hhaXIlMjBhbmQlMjBSZWNsaW5lcnN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "5",
+            "title": "Accent Chair",
+            "description": "Classic rocking chair with a modern twist.",
+            "details": "Combines traditional rocking design with contemporary materials.",
+            "price": "3499",
+            "image": "https://plus.unsplash.com/premium_photo-1683141507095-7a8e587663aa?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2hhaXIlMjBhbmQlMjBSZWNsaW5lcnN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "6",
+            "title": "Swivel Recliner",
+            "description": "Luxurious lounge chair with plush cushions.",
+            "details": "Perfect for relaxation, featuring deep seating and soft fabrics.",
+            "price": "4499",
+            "image": "https://images.unsplash.com/photo-1605635543237-e9c8c472d09a?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGNoYWlyJTIwYW5kJTIwUmVjbGluZXJzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "7",
+            "title": "Lift Chair",
+            "description": "Minimalist recliner with a sleek design.",
+            "details": "Offers comfort without compromising on style.",
+            "price": "3999",
+            "image": "https://images.unsplash.com/photo-1681013106634-6e880f17a81f?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGNoYWlyJTIwYW5kJTIwUmVjbGluZXJzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "8",
+            "title": "Folding Chair",
+            "description": "Compact recliner for small spaces.",
+            "details": "A space-saving recliner that fits perfectly in cozy corners.",
+            "price": "2999",
+            "image": "https://plus.unsplash.com/premium_photo-1676823570926-238f23020786?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGNoYWlyJTIwYW5kJTIwUmVjbGluZXJzfGVufDB8fDB8fHww"
+        }
+    ],
+    "tables": [
+        {
+            "id": "1",
+            "title": "Bistro Table",
+            "description": "Classic wooden dining table.",
+            "details": "Made from solid oak, seats up to six people comfortably.",
+            "price": "7999",
+            "image": "https://plus.unsplash.com/premium_photo-1670984939016-ac6de78350e8?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VGFibGVzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "2",
+            "title": "Farmhouse Table",
+            "description": "Modern glass coffee table.",
+            "details": "Features tempered glass top and chrome legs.",
+            "price": "2999",
+            "image": "https://thelinenhouse.pk/cdn/shop/products/Furniture-R-Brown-Metal-Wood-End-Table_jpg_grande.jpg?v=1726299779"
+        },
+        {
+            "id": "3",
+            "title": "Ottoman Table",
+            "description": "Elegant marble top dining table.",
+            "details": "A luxurious table with a marble top and wooden base.",
+            "price": "9999",
+            "image": "https://plus.unsplash.com/premium_photo-1673626581475-91a7aadab033?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8VGFibGVzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "4",
+            "title": "Nest of Table",
+            "description": "Compact side table for bedrooms.",
+            "details": "Ideal for small spaces, with a drawer for storage.",
+            "price": "1999",
+            "image": "https://images.unsplash.com/photo-1510076857177-7470076d4098?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8VGFibGVzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "5",
+            "title": "Pub Table (Bar Table)",
+            "description": "Expandable wooden dining table.",
+            "details": "Adjustable length to accommodate more guests.",
+            "price": "8499",
+            "image": "https://images.unsplash.com/photo-1521389385985-0fa3ff457f9b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8VGFibGVzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "6",
+            "title": "Dining Table",
+            "description": "Rustic coffee table for living rooms.",
+            "details": "Features reclaimed wood and a sturdy design.",
+            "price": "3499",
+            "image": "https://images.unsplash.com/photo-1514513452089-17f8a9771ee8?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fFRhYmxlc3xlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "7",
+            "title": "Side Table (End Table)",
+            "description": "Minimalist dining table for modern spaces.",
+            "details": "Sleek lines and neutral colors to fit any decor.",
+            "price": "7499",
+            "image": "https://plus.unsplash.com/premium_photo-1673626577922-1b3f9771fc3f?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8VGFibGVzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "8",
+            "title": "Console Table",
+            "description": "Glass top table with metal legs.",
+            "details": "A contemporary piece perfect for dining or workspace.",
+            "price": "3999",
+            "image": "https://images.unsplash.com/photo-1507089872327-8fdb6ebba93c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFRhYmxlc3xlbnwwfHwwfHx8MA%3D%3D"
+        }
+    ],
+    "beds": [
+        {
+            "id": "1",
+            "title": "California King Bed",
+            "description": "King-size bed with upholstered headboard.",
+            "details": "Features a padded headboard and solid wood frame.",
+            "price": "12999",
+            "image": "https://plus.unsplash.com/premium_photo-1678297269904-6c46528b36a7?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8QmVkcyUyMGFuZCUyME1hdHRyZXNzZXN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "2",
+            "title": "Platform Bed",
+            "description": "Modern bed frame with storage underneath.",
+            "details": "Maximize space with built-in drawers.",
+            "price": "9999",
+            "image": "https://images.unsplash.com/photo-1658595149684-3c3c6aa3c154?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fEJlZHMlMjBhbmQlMjBNYXR0cmVzc2VzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "3",
+            "title": "Sleigh Bed",
+            "description": "Elegant wooden bed frame for master bedrooms.",
+            "details": "Crafted from high-quality oak with intricate designs.",
+            "price": "11999",
+            "image": "https://images.unsplash.com/photo-1698517486200-e89403ea2738?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8QmVkcyUyMGFuZCUyME1hdHRyZXNzZXN8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "4",
+            "title": "Adjustable Bed",
+            "description": "Queen-size bed with memory foam mattress.",
+            "details": "Includes a premium mattress for ultimate comfort.",
+            "price": "10999",
+            "image": "https://images.unsplash.com/photo-1658595149281-8d6bb3643eab?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fEJlZHMlMjBhbmQlMjBNYXR0cmVzc2VzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "5",
+            "title": "Canopy Bed",
+            "description": "Classic metal bed frame with modern design.",
+            "details": "Durable metal construction with a minimalist look.",
+            "price": "8999",
+            "image": "https://plus.unsplash.com/premium_photo-1661595077028-9ff236368cb5?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fEJlZHMlMjBhbmQlMjBNYXR0cmVzc2VzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "6",
+            "title": "Daybed",
+            "description": "Minimalist platform bed for small spaces.",
+            "details": "Low-profile design that's perfect for compact rooms.",
+            "price": "7999",
+            "image": "https://images.unsplash.com/photo-1524169741802-fe62fbccd1a4?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fEJlZHMlMjBhbmQlMjBNYXR0cmVzc2VzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "7",
+            "title": "Full Bed (Double Bed)",
+            "description": "Luxury bed with premium mattress.",
+            "details": "Experience unparalleled comfort and support.",
+            "price": "13999",
+            "image": "https://images.unsplash.com/photo-1629127498670-687cb87dd861?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fEJlZHMlMjBhbmQlMjBNYXR0cmVzc2VzfGVufDB8fDB8fHww"
+        },
+        {
+            "id": "8",
+            "title": "Crib Mattress",
+            "description": "Sleek modern bed with headboard lighting.",
+            "details": "Features built-in LED lights for ambient lighting.",
+            "price": "11999",
+            "image": "https://images.unsplash.com/photo-1664369210144-90e51ddbbc30?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fEJlZHMlMjBhbmQlMjBNYXR0cmVzc2VzfGVufDB8fDB8fHww"
+        }
+    ],
+    "storage": [
+        {
+            "id": "1",
+            "title": "Chest of Drawers",
+            "description": "Spacious wooden wardrobe for bedroom.",
+            "details": "Includes hanging space, shelves, and drawers.",
+            "price": "8999",
+            "image": "https://plus.unsplash.com/premium_photo-1682146353936-30c121b55131?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8U3RvcmFnZXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "2",
+            "title": "Storage Bench",
+            "description": "Modern storage cabinet for living room.",
+            "details": "Features glass doors and adjustable shelves.",
+            "price": "4999",
+            "image": "https://plus.unsplash.com/premium_photo-1675884216390-996a140a7bcb?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3RvcmFnZXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "3",
+            "title": "Ottoman with Storage",
+            "description": "Compact storage shelf for small spaces.",
+            "details": "Ideal for books, decor, or small items.",
+            "price": "1999",
+            "image": "https://images.unsplash.com/photo-1469289759076-d1484757abc3?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U3RvcmFnZXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "4",
+            "title": "Media Console",
+            "description": "Stylish shoe rack with multiple tiers.",
+            "details": "Holds up to 20 pairs of shoes.",
+            "price": "2499",
+            "image": "https://images.unsplash.com/photo-1576669801820-a9ab287ac2d1?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8U3RvcmFnZXxlbnwwfHwwfHx8MA%3D%3D"
+        },
+        {
+            "id": "5",
+            "title": "Filing Cabinet",
+            "description": "Classic wooden chest of drawers.",
+            "details": "Five spacious drawers with smooth gliding tracks.",
+            "price": "5499",
+            "image": "https://plus.unsplash.com/premium_photo-1664297166040-4f5dd279f234?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fFN0b3JhZ2V8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "6",
+            "title": "Buffet Table",
+            "description": "Tall storage cabinet for kitchen use.",
+            "details": "Perfect for pantry items and kitchenware.",
+            "price": "6499",
+            "image": "https://images.unsplash.com/photo-1536376072261-38c75010e6c9?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFN0b3JhZ2V8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "7",
+            "title": "Chest of Drawers",
+            "description": "Modern wall-mounted storage solution.",
+            "details": "Space-saving design with a contemporary look.",
+            "price": "2999",
+            "image": "https://images.unsplash.com/photo-1532884988337-3c5dca28cccc?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fFN0b3JhZ2V8ZW58MHx8MHx8fDA%3D"
+        },
+        {
+            "id": "8",
+            "title": "Wardrobe (Armoire)",
+            "description": "Elegant storage bench for hallways.",
+            "details": "Provides seating and storage in one piece.",
+            "price": "3999",
+            "image": "https://plus.unsplash.com/premium_photo-1682146396065-eeaae8713a61?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fFN0b3JhZ2V8ZW58MHx8MHx8fDA%3D"
+     }
+   ]
+}
